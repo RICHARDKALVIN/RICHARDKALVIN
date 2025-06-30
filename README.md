@@ -1,60 +1,59 @@
-### Hi there! 👋
+<h1 align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hey+There!+👋;I’m+RICHARD+KALVIN+🤗;Lets+Build+Together!+😀;&center=true&size=30">
+  </a>
+</h1>
 
-I'm **RICHARD KALVIN**, an aspiring **Back-End Developer** and Computer Science/IT student based in Chennai. I love solving real-world problems with code and building clean, reliable software.
 
----
 
-### 🚀 **Tech Stack & Tools**
+### 👨‍💻 About Me
 
-- **Languages:** Python, Java (DSA level), C (basic)
-- **Web:** HTML, CSS, JavaScript, MERN Stack (MongoDB, Express.js, React, Node.js)
-- **Frameworks:** Spring, Spring Boot (learning)
-- **Databases:** MySQL, SQL
-- **Tools:** Eclipse, VS Code, Git & GitHub, MySQL Workbench, Turbo C++, MASM
-
----
-
-### 📌 **What I'm Working On**
-
-- A MERN group chat application (`ruby`) with login & database.
-- A portfolio website with a professional UI.
-- Learning Spring essentials before Spring Boot.
-- Exploring mini-projects to sharpen my back-end skills.
+- 🔭 Exploring mini-projects to sharpen my back-end skills. (Frontend ⚡ + Backend 💾 )
+- 🌱 On a mission to master Fullstack Engineering ❤️
+- 💻 Love building clean, scalable, production-ready apps
+- 📖 Always diving into docs like it’s my daily newspaper 📰
+- ☁️ 2025 Goal: Level up on AWS & Azure
+- 🤯 Fun Fact: == and .equals() — not the same in Java. Java be strict.
 
 ---
 
-### 📚 **Currently Learning**
+### 🌐 Connect With Me
 
-- Advanced **Java Lambdas**
-- Spring Framework & Spring Boot
-- React fundamentals (3-month roadmap)
-
----
-
-### 🎯 **Goals**
-
-- Master **back-end development**
-- Build projects that solve real problems for everyone — including tools for blind people & kids
-- Land a permanent government job in tech (or related to ships 🌊)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/richard-kalvin-r)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/itz_me_noboady_x)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/richard_kalvin)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](riczyrichard@gmail.com)
 
 ---
 
-### 💡 **Some Facts**
+#### 💻 Languages & Frameworks
+![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=openjdk)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python)
+![C](https://img.shields.io/badge/-C-A8B9CC?style=flat-square&logo=c)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript)
+![Spring](https://img.shields.io/badge/-Spring-6DB33F?style=flat-square&logo=spring)
 
-- Interested in chess ♟️, anime 🎌, video shooting & editing 🎥
-- Past experience as a class leader & symposium coordinator
-- Preparing for **TNPSC Group 4**
+#### 🌐 Web & Backend Technologies
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js)
+
+#### 🗄️ Databases
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql)
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb)
+
+#### 🔧 Tools & Version Control
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git)
+
+#### 🧰 IDEs & Editors
+![Eclipse](https://img.shields.io/badge/-Eclipse-2C2255?style=flat-square&logo=eclipse-ide)
+![IntelliJ IDEA](https://img.shields.io/badge/-IntelliJ%20IDEA-000000?style=flat-square&logo=intellij-idea)
+![PyCharm](https://img.shields.io/badge/-PyCharm-000000?style=flat-square&logo=pycharm)
+![Cursor](https://img.shields.io/badge/-Cursor-000000?style=flat-square&logo=visual-studio-code) <!-- No official logo, using VSCode logo as placeholder -->
+![Visual Studio Code](https://img.shields.io/badge/-VSCode-007ACC?style=flat-square&logo=visual-studio-code)
+
 
 ---
 
-### 📫 **Let's Connect**
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://www.linkedin.com/in/yourprofile)  
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-informational)](https://yourportfolio.link)  
-[![Email](https://img.shields.io/badge/Email-Say%20Hi-red)](mailto:youremail@example.com)
-
----
-
-**_“Code is like humor. When you have to explain it, it’s bad.” — Cory House_**
-
-⭐️ *Thanks for visiting my profile!*

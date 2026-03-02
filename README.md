@@ -12,7 +12,7 @@
 - 🌱 On a mission to master Fullstack Engineering ❤️
 - 💻 Love building clean, scalable, production-ready apps
 - 📖 Always diving into docs like it’s my daily newspaper 📰
-- ☁️ 2025 Goal: Level up on AWS & Azure
+- ☁️ 2026 Goal: Level up on AWS & Azure
 - 🤯 Fun Fact: == and .equals() — not the same in Java. Java be strict.
 
 ---
